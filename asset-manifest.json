@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/amazon/static/css/main.ba4f724f.css",
+    "main.js": "/amazon/static/js/main.b3b15379.js",
+    "static/js/453.9d71a041.chunk.js": "/amazon/static/js/453.9d71a041.chunk.js",
+    "static/media/iphone.jpg": "/amazon/static/media/iphone.f203a1058da0b9c0440f.jpg",
+    "static/media/visa.png": "/amazon/static/media/visa.53412106e5dd0cc322c5.png",
+    "static/media/paypal.png": "/amazon/static/media/paypal.22b740f777bdc0efc652.png",
+    "static/media/search.png": "/amazon/static/media/search.cadee8cdb0c0afb1a713.png",
+    "static/media/facebook.png": "/amazon/static/media/facebook.795fce8e464693d7346d.png",
+    "static/media/mail.png": "/amazon/static/media/mail.a8df4638190bd6b7b9b5.png",
+    "static/media/phone.png": "/amazon/static/media/phone.95521676eee4c1936f05.png",
+    "static/media/apple-pay.png": "/amazon/static/media/apple-pay.c05c5dbb2291b539538d.png",
+    "index.html": "/amazon/index.html",
+    "main.ba4f724f.css.map": "/amazon/static/css/main.ba4f724f.css.map",
+    "main.b3b15379.js.map": "/amazon/static/js/main.b3b15379.js.map",
+    "453.9d71a041.chunk.js.map": "/amazon/static/js/453.9d71a041.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ba4f724f.css",
+    "static/js/main.b3b15379.js"
+  ]
+}
